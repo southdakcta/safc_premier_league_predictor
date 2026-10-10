@@ -33,42 +33,42 @@ will not prove a model right or wrong; the aim is to evaluate how its prediction
 
 ## <span style="color: #0F52BA;"> Premier League 2026-27 Fixture Predictions </span>
 
-| #  | Date | Opponent          | H/A | Predicted result | Actual result | Predicted score | Actual score | Result correct (NOT SCORE)? |
-|----|------|-------------------|-----|------------------|---------------|-----------------|--------------|-----------------------------|
-| 1  | 22 Aug | Ipswich Town      | A | L                | L             | 0 - 1           | 1 - 2        | Yes                         |
-| 2  | 29 Aug | Fulham            | H | W                | W             | 1 - 0           | 1 - 0        | Yes                         |
-| 3  | 5 Sep | Brentford         | A | L                | D             | 1 - 2           | 1 - 1        | No                          |
-| 4  | 12 Sep | Arsenal           | H | L                | L             | 0 - 1           | 0 - 2        | Yes                         |
-| 5  | 19 Sep | Manchester City   | A | L                | L             | 0 - 2           | 3 - 5        | Yes                         |
-| 6  | 10 Oct | Brighton          | H | L                |               |                 |              |                             |
-| 7  | 17 Oct | Bournemouth       | A | L                |               |                 |              |                             |
-| 8  | 24 Oct | Leeds             | H | L                |               |                 |              |                             |
-| 9  | 31 Oct | Coventry City     | A | L                |               |                 |              |                             |
-| 10 | 7 Nov | Chelsea           | H | L                |               |                 |              |                             |
-| 11 | 21 Nov | Aston Villa       | A | L                |               |                 |              |                             |
-| 12 | 28 Nov | Tottenham         | H | W                |               |                 |              |                             |
-| 13 | 2 Dec | Liverpool         | A | L                |               |                 |              |                             |
-| 14 | 5 Dec | Newcastle United  | A | L                |               |                 |              |                             |
-| 15 | 12 Dec | Nottingham Forest | H | W                |               |                 |              |                             |
-| 16 | 19 Dec | Crystal Palace    | H | L                |               |                 |              |                             |
-| 17 | 26 Dec | Everton           | A | L                |               |                 |              |                             |
-| 18 | 30 Dec | Manchester United | A | L                |               |                 |              |                             |
-| 19 | 2 Jan | Hull City         | H | W                |               |                 |              |                             |
-| 20 | 6 Jan | Liverpool         | H | L                |               |                 |              |                             |
-| 21 | 16 Jan | Chelsea           | A | L                |               |                 |              |                             |
-| 22 | 23 Jan | Coventry City     | H | W                |               |                 |              |                             |
-| 23 | 30 Jan | Tottenham         | A | L                |               |                 |              |                             |
-| 24 | 6 Feb | Aston Villa       | H | L                |               |                 |              |                             |
-| 25 | TBC | Hull City         | A | L                |               |                 |              |                             |
-| 26 | TBC | Everton           | H | W                |               |                 |              |                             |
-| 27 | 27 Feb | Crystal Palace    | A | L                |               |                 |              |                             |
-| 28 | TBC | Manchester United | H | L                |               |                 |              |                             |
-| 29 | TBC | Brentford         | H | L                |               |                 |              |                             |
-| 30 | TBC | Ipswich Town      | H | W                |               |                 |              |                             |
-| 31 | TBC | Bournemouth       | H | L                |               |                 |              |                             |
+| # | Date | Opponent          | H/A | Predicted result | Actual result | Predicted score | Actual score | Result correct (NOT SCORE)? |
+|---|------|-------------------|-----|------------------|---------------|-----------------|--------------|----------------------------|
+| 1 | 22 Aug | Ipswich Town      | A | L                | L             | 0 - 1           | 1 - 2        | Yes                        |
+| 2 | 29 Aug | Fulham            | H | W                | W             | 1 - 0           | 1 - 0        | Yes                        |
+| 3 | 5 Sep | Brentford         | A | L                | D             | 1 - 2           | 1 - 1        | No                         |
+| 4 | 12 Sep | Arsenal           | H | L                | L             | 0 - 1           | 0 - 2        | Yes                        |
+| 5 | 19 Sep | Manchester City   | A | L                | L             | 0 - 2           | 3 - 5        | Yes                        |
+| 6 | 10 Oct | Brighton          | H | L                | L             | 0 - 1           | 0 - 2        | Yes                        |
+|7  | 17 Oct | Bournemouth       | A | L                |               |                 |              |                            |
+| 8 | 24 Oct | Leeds             | H | L                |               |                 |              |                            |
+| 9 | 31 Oct | Coventry City     | A | L                |               |                 |              |                            |
+| 10 | 7 Nov | Chelsea           | H | L                |               |                 |              |                            |
+| 11 | 21 Nov | Aston Villa       | A | L                |               |                 |              |                            |
+| 12 | 28 Nov | Tottenham         | H | W                |               |                 |              |                            |
+| 13 | 2 Dec | Liverpool         | A | L                |               |                 |              |                            |
+| 14 | 5 Dec | Newcastle United  | A | L                |               |                 |              |                            |
+| 15 | 12 Dec | Nottingham Forest | H | W                |               |                 |              |                            |
+| 16 | 19 Dec | Crystal Palace    | H | L                |               |                 |              |                            |
+| 17 | 26 Dec | Everton           | A | L                |               |                 |              |                            |
+| 18 | 30 Dec | Manchester United | A | L                |               |                 |              |                            |
+| 19 | 2 Jan | Hull City         | H | W                |               |                 |              |                            |
+| 20 | 6 Jan | Liverpool         | H | L                |               |                 |              |                            |
+| 21 | 16 Jan | Chelsea           | A | L                |               |                 |              |                            |
+| 22 | 23 Jan | Coventry City     | H | W                |               |                 |              |                            |
+| 23 | 30 Jan | Tottenham         | A | L                |               |                 |              |                            |
+| 24 | 6 Feb | Aston Villa       | H | L                |               |                 |              |                            |
+| 25 | TBC | Hull City         | A | L                |               |                 |              |                            |
+| 26 | TBC | Everton           | H | W                |               |                 |              |                            |
+| 27 | 27 Feb | Crystal Palace    | A | L                |               |                 |              |                            |
+| 28 | TBC | Manchester United | H | L                |               |                 |              |                            |
+| 29 | TBC | Brentford         | H | L                |               |                 |              |                            |
+| 30 | TBC | Ipswich Town      | H | W                |               |                 |              |                            |
+| 31 | TBC | Bournemouth       | H | L                |               |                 |              |                            |
 | 32 | TBC | Fulham            | A | L                |               |                 |              |
-| 33 | TBC | Arsenal           | H | L                |               |                 |              |                             |
-| 34 | TBC | Brighton          | H | L                |               |                 |              |                             |
-| 35 | TBC | Leeds             | H | L                |               |                 |              |                             |
-| 36 | TBC | Nottingham Forest | H | L                |               |                 |              |                             |
+| 33 | TBC | Arsenal           | H | L                |               |                 |              |                            |
+| 34 | TBC | Brighton          | H | L                |               |                 |              |                            |
+| 35 | TBC | Leeds             | H | L                |               |                 |              |                            |
+| 36 | TBC | Nottingham Forest | H | L                |               |                 |              |                            |
 | 37 | TBC | Newcastle United  | A | L                |               |                 |              |
